@@ -1,1 +1,17 @@
-dfbfv d
+From google play store dataset iam doing some EDA and data visualization using graphs(seaborn,matplotlib.pyplot) and checking
+on which factors and features the rating of applications are depending on, and gathering some important insights from it
+
+The features available in the dataset are
+1)App - Name of the applications
+2)category - categories of each application which it belong to
+3)Rating - rating of each application
+4)Reviews - No of reviews for each application
+5)Installs - No of installs for each application
+6)Type - Two types of applications(Free or Paid)
+7)price - price of each application(if its free - $0) and (if its paid it ranges from ($1-$400)
+8)content rating - Tells us the rating based on the content of the app (all,18+,teen,etc)
+9)Genre - Tells us on which genre our application is based on
+10)Last updated - Displays date of the application when it got recently updated
+11)current version - current version of the application
+12)Android version - Tells us about the android version which supports that specific application
+
